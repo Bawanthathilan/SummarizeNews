@@ -48,7 +48,7 @@ def summarize():
 
     
 root = tk.Tk()
-root.title('News Sumarizer')
+root.title('News Summarizer')
 root.geometry('1200x600')
 
 tlable = tk.Label(root, text="Title")
