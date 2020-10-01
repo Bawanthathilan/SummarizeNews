@@ -5,4 +5,4 @@ Summarize news articles using natural language processing and machine learning i
 * pip install textblob
 * pip install newspaper3k
 
-![screenshot](./assets/ss.png)
+![screenshot](./asserts/ss.png)
